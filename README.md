@@ -1,6 +1,6 @@
 - Name is @ivncstro
 - I’m interested in learning programming
-- Currently studying Computer Programming and Analysis
+- Seneca College: Computer Programming
 
 email: ivananthony167@gmail.com
 
