@@ -1,4 +1,4 @@
-- Name is @ivncstro
+- Name is Ivan Anthony Castro
 - I’m interested in learning programming
 - Seneca College: Computer Programming
 
