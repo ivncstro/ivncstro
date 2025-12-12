@@ -1,6 +1,6 @@
-Name: Ivan Anthony Castro
-Year: 3rd Year
-Program: Computer Programming Analysis
+Name: Ivan Anthony Castro  
+Year: 3rd Year  
+Program: Computer Programming Analysis  
 Email: ivananthony167@gmail.com
 
 
