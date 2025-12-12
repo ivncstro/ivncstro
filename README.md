@@ -1,8 +1,7 @@
-- Name is Ivan Anthony Castro
-- I’m interested in learning programming
-- Seneca College: Computer Programming
-
-email: ivananthony167@gmail.com
+Name: Ivan Anthony Castro
+Year: 3rd Year
+Program: Computer Programming Analysis
+Email: ivananthony167@gmail.com
 
 
 <!---
